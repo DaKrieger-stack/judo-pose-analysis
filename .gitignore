@@ -130,10 +130,12 @@ docs/gathered
 doxygen
 html/
 
-######################### Video Files #########################
+######################### Video ImageFiles #########################
 # Testing videos
 *.mp4
 *.mov
+*.jpg
+*.png
 
 ######################### Validation Scripts & Testing #########################
 output*/
